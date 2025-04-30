@@ -138,3 +138,11 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.container {
+  @apply mx-auto w-[1140px];
+}
+
+.hero-shadow {
+  background: li;
+}
